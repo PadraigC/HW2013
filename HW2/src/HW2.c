@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : HW2.c
- Author      : 
+ Author      :
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello World!!! XoX"); /* prints !!!Hello World!!! */
+	puts("!!!Hello World!!! 2013 XoX"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
